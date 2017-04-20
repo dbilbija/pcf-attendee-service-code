@@ -3,7 +3,7 @@ resources:
 - name: attendee-service-source
   type: git
   source:
-    uri: https://github.com/dbilbija/attendee-service
+    uri: https://github.com/dbilbija/pcf-attendee-service-code
     branch: master
 - name: deploy-attendee-service
   type: cf
